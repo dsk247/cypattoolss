@@ -1,0 +1,6 @@
+# prepare w/ sudo
+sudo apt update
+sudo apt -y upgrade
+
+# install all of the pacakages
+sudo apt -y install python3 libpam-cracklib ufw gufw aptitude 
